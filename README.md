@@ -6,6 +6,8 @@ Hugging face model link: https://huggingface.co/parthsolanke/saul-gpt2-mk2
 ## 🚀 Run it yourself
 Replace "KEY" with your actual Hugging Face API key in server.py
 
+Requirements:
+
 ```bash
 pip install fastapi streamlit
 ```
