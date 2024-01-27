@@ -5,7 +5,7 @@ import requests
 app = FastAPI()
 
 API_URL = "https://api-inference.huggingface.co/models/parthsolanke/saul-gpt2-mk2"
-HEADERS = {"Authorization": "Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}
+HEADERS = {"Authorization": "Bearer KEY"}
 
 
 class QueryInput(BaseModel):
